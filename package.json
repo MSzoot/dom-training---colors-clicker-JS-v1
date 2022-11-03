@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.2.1"
+  },
+  "dependencies": {
+    "jsdom": "^20.0.1"
+  }
+}
